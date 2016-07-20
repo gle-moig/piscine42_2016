@@ -1,0 +1,5 @@
+Credentials cache: API:18089
+        Principal: gle-moig@42.FR
+
+  Issued                Expires               Principal
+Jul  5 20:02:16 2016  Jul  6 06:02:16 2016  krbtgt/42.FR@42.FR
